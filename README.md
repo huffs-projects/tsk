@@ -1,4 +1,4 @@
-# Task Timer - Pomodoro Timer + Task Manager TUI
+# tsk - Pomodoro Timer + Task Manager TUI
 
 A terminal user interface (TUI) application built with Rust and ratatui that combines a real-time clock, Pomodoro timer, and task manager.
 
