@@ -53,14 +53,6 @@ Press `Esc` in normal mode to open the settings menu. The menu provides quick ac
 
 Navigate with `↑`/`↓` or `j`/`k`, select with `Enter`, and close with `Esc` or `q`.
 
-## Project Structure
-
-- `src/main.rs`: Event loop and terminal setup
-- `src/app.rs`: Application state and business logic
-- `src/ui.rs`: Rendering with ratatui
-- `src/input.rs`: Keyboard input handling
-- `src/theme.rs`: Theme system with multiple color schemes
-
 ## State Persistence
 
 The application automatically saves and loads state from `~/.config/tui_pomo/state.json` on startup and shutdown.
