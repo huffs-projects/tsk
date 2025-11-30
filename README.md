@@ -7,16 +7,14 @@ A terminal user interface (TUI) application built with Rust and ratatui that com
 Install the application as a command-line tool:
 
 ```bash
-cargo install --path ~./
+cargo install --path .
 ```
 
-This will install `task-timer` to `~/.cargo/bin/`, which should already be in your PATH if you have Rust installed via rustup.
+This will install `tsk` to `~/.cargo/bin/`, which should already be in your PATH if you have Rust installed via rustup.
 
-A shortcut `tsk` is also created automatically. Run it from anywhere:
+Run it from anywhere:
 
 ```bash
-task-timer
-# or use the shortcut:
 tsk
 ```
 
