@@ -2,6 +2,8 @@
 
 A terminal user interface (TUI) application built with Rust and ratatui that combines a real-time clock, Pomodoro timer, and task manager.
 
+![Example](example.png)
+
 ## Installation
 
 Install the application as a command-line tool:
