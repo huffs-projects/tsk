@@ -9,6 +9,7 @@ A terminal user interface (TUI) application built with Rust and ratatui that com
 Install the application as a command-line tool:
 
 ```bash
+cd tsk
 cargo install --path ~./
 ```
 
